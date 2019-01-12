@@ -1,0 +1,9 @@
+<configs>
+	<append xpath="/xui/ruleset/window_group[@name='toolbelt']">
+		<window name="rightSideHUD" />
+		<window name="pzLeftBars" />
+		<window name="S420ActiveBuffsWindow" anchor="LeftBottom" />
+	</append>
+
+	<set xpath="xui/ruleset/window_group[@name='workstation_forge']/window[@name='windowForgeInput']/@name">S420windowForgeInput</set>
+</configs>

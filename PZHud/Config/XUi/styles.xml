@@ -1,0 +1,3 @@
+<configs>
+<set xpath="/styles/style[@name='itemStack']/style_entry[@name='holding_color']/@value"> [green] </set>
+</configs>
